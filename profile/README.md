@@ -20,8 +20,6 @@ Building modern infrastructure for the next generation of web and AI systems.
 
 </div>
 
----
-
 ## ❤️ Community
 
 We welcome:
@@ -33,25 +31,21 @@ We welcome:
 
 Feel free to open issues, discussions, and pull requests.
 
----
-
 ## 🛠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,python" />
 </p>
 
----
-
 ## 📫 Connect
 
 - Website: https://cs9labs.com
 - Discussions: https://github.com/orgs/cs9labs/discussions
 
----
-
 <div align="center">
 
-Built with ❤️ by Cs9 Labs
+<br />
+  
+Built with ❤️ by cs9labs
 
 </div>
